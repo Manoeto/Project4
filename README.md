@@ -2,7 +2,7 @@
 
 Name: Manoel Lemos de Oliveira Neto, 35 years.
 
-Favourite color: Blue
+Fav. color: Blue
 
 Fav. Language: French
 
